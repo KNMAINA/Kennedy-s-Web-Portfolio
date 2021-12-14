@@ -55,3 +55,22 @@ h2 {
 .sidebar ul{
     font-size: small;
 }
+.main {
+    width: 60%;
+    position:absolute;
+    top: 30%;
+    right: 1%;
+    background-color: rgba(5, 125, 146, 0.295);
+    border: 2px solid rgba(17, 0, 56, 0.342);
+    padding: 6px;
+    margin: 20px;
+    margin-top: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+.projects {
+    width: 220px;
+    float: left;
+    padding: 15px; 
+    text-align: center;       
+  }
