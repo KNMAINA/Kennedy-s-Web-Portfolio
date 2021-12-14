@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: rgba(5, 125, 146, 0.295);
+    border: 2px solid rgba(17, 0, 56, 0.342);
+    padding: 6px;
+    margin: 20px;
+  }
+  img {
+    border: 5px solid rgba(2, 33, 119, 0.507);
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
