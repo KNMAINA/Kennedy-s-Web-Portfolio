@@ -1,6 +1,6 @@
 # Kennedy-s-Web-Portfolio
 #### This is a landing page for my programming portfolio., {14th December 2021}
-#### By **kennedy Maina**
+#### By **Kennedy Maina**
 ## Description
 This is a landing page of my programming portfolio showcasing the projects I have worked on in the past as part of my HTML learning journey with Moringa School. The landing page also has an about me section that gives a quick brief of my education, job experience and current hobbies and interests.
 ## Setup/Installation Requirements
