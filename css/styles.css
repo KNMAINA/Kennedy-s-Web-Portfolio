@@ -22,6 +22,9 @@ body, html {
         text-align: center;
         font-family:Georgia, 'Times New Roman', Times, serif;
 }
+.name{
+    color: chartreuse;
+    }
 h2 {
     text-align: center;
 }
